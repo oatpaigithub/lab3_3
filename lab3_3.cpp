@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
     {
-        float x = 2;
+        float x = 6;
         float sum = 0;       
 
-        while( x <= 69)
+        while( x <= 19)
             { sum = sum + 1/x;
             x = x + 1;
             
