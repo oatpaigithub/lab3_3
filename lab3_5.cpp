@@ -21,6 +21,7 @@ int main()
             {cout << text2 << " ";
             }
     count = count + 1;
+    ///llllljkghjfj
         
     }
 }
